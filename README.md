@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwoghi1
 - 👀 I’m interested in ... Cloud development/blockchain/IT systems
-- 🌱 I’m currently learning ... AWS/GCP
+- 🌱 I’m currently learning ... Cloud infrastructure AWS/GCP
 - 💞️ I’m looking to collaborate on ... Hedera Hashgraph ecosystem
 - 📫 How to reach me ... https://www.linkedin.com/in/woghiren/
 
